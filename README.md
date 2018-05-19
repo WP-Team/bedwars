@@ -4,7 +4,7 @@ In this repository is everything about Little Flower's Bedwars private server ma
 
 ## Introduction
 
-Bedwars is a game based on ''non-modified'' [Minecraft](www.minecraft.net) 1.13. You can join by Minecraft Java with 1.13. The server is maintained by 'Xxy Flying'. 
+Bedwars is a game based on ''non-modified'' [Minecraft](minecraft.net) 1.13. You can join by Minecraft Java with 1.13. The server is maintained by 'Xxy Flying'. 
 
 Each team has a bed, which is to be protected by surrounding it with blocks. After it is destroyed by other teams, players of this team no longer respawn. Your goal is to protect your own team's bed, destroy other teams' beds, and kill every enemy. 
 
