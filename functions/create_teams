@@ -1,0 +1,33 @@
+# function create_teams
+
+# create red team
+team add red red
+team option red color red
+team option red friendlyfire false
+team option red seeFriendlyInvisibles true
+team option red nametagVisibility hideForOtherTeams
+team option red collisionRule pushOtherTeams
+
+# create yellow team
+team add yellow yellow
+team option yellow color yellow
+team option yellow friendlyfire false
+team option yellow seeFriendlyInvisibles true
+team option yellow nametagVisibility hideForOtherTeams
+team option yellow collisionRule pushOtherTeams
+
+# create blue team
+team add blue blue
+team option blue color blue
+team option blue friendlyfire false
+team option blue seeFriendlyInvisibles true
+team option blue nametagVisibility hideForOtherTeams
+team option blue collisionRule pushOtherTeams
+
+# create green team
+team add green green
+team option green color green
+team option green friendlyfire false
+team option green seeFriendlyInvisibles true
+team option green nametagVisibility hideForOtherTeams
+team option green collisionRule pushOtherTeams
