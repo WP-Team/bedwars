@@ -6,10 +6,11 @@ The datapack for Little Flower's Bed Wars map is kept in this repository. You ne
 
 1. Make sure you have **Minecraft 1.13**. If you don't, please go to the official website of [Minecraft](https://minecraft.net/) to get one.
 2. Go to [download](https://github.com/Little-Flower-171/bedwars/releases) this project.
-3. Create a super-flat world in Minecraft with the Void default.
-4. Go to `.minecraft\saves\<world name>\datapacks\`. (If you are using OS X, remove the dot in `.minecraft`)
-5. Copy the `bedwars` folder in this project to that directory. (Do not copy `README.md`)
-6. Enter the world in Minecraft and you can enjoy Bed Wars!
+3. Create a super-flat world in Minecraft with the Void default. Wait until you die.
+4. Click the second button.
+5. Go to `.minecraft\saves\<world name>\datapacks\`. (If you are using OS X, remove the dot in `.minecraft`)
+6. Copy the `bedwars` folder in this project to that directory. (Do not copy `README.md`)
+7. Enter the world in Minecraft and you can enjoy Bed Wars!
 
 ## How to contribute
 
