@@ -12,6 +12,9 @@ gamerule doLimitedCrafting true
 gamerule doMobSpawning false
 gamerule doWeatherCycle false
 
+team add peaceful Peaceful Team
+team option peaceful friendlyfire false
+
 defaultgamemode adventure
 
 datapack disable vanilla
